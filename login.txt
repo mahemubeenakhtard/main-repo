@@ -1,2 +1,1 @@
-Login Page - Main Authentication
-Login Details - content from Inchara
+Login feature version 3
